@@ -1,0 +1,16 @@
+campaign,channel,budget,clicks,conversions,conv_rate,cost_per_conv,status
+Netflix_DE,YouTube,5000,1200,45,3.75%,111.1111111,Too Expensive
+Prime_FR,Instagram,3000,900,20,2.22%,150,Too Expensive
+Disney_ES,TikTok,4000,1500,30,2.00%,133.3333333,Too Expensive
+HBO_IT,YouTube,3500,800,10,1.25%,350,Low Conversion
+AppleTV_UK,Instagram,2000,600,25,4.17%,80,Healthy
+,,,,,,,
+Top Performer,AppleTV_UK,,Status,Count,,,
+Worst Performer,HBO_IT,,Healthy,1,,,
+Number of Issues,4,,Low Conversion,1,,,
+,,,Too Expensive,3,,,
+,,,,,,,
+Insights:,,,,,,,
+Youtube campaigns perform best,,,,,,,
+2 campaigns need attention ,,,,,,,
+High cost campaign should be optimized,,,,,,,
